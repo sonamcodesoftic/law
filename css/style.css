@@ -325,7 +325,7 @@ a:focus {
 .carousel .carousel-caption h1 {
     color: #ffffff;
     font-size: 60px;
-    font-weight: 700;
+    /* font-weight: 700; */
     margin-bottom: 20px;
 }
 
@@ -1674,13 +1674,13 @@ a:focus {
     transition: .3s;
 }
 
-.footer .footer-link a::before {
+/* .footer .footer-link a::before {
     position: relative;
-    content: "\f105";
-    font-family: "Font Awesome 5 Free";
+    /* content: "\f105"; */
+    /* font-family: "Font Awesome 5 Free";
     font-weight: 900;
     margin-right: 10px;
-}
+} */ 
 
 .footer .footer-link a:hover {
     color: #aa9166;
